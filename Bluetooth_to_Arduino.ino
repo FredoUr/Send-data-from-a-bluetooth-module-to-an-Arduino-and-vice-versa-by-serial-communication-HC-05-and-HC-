@@ -1,3 +1,4 @@
+//By Alfredo Uriel
 #include <SoftwareSerial.h>
 SoftwareSerial MySerial(10, 11);  // RX   y    TX
 
